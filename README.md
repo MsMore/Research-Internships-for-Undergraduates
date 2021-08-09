@@ -5,6 +5,7 @@
 2. [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships) **3 application**
 3. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education) **2 applications**
 4. [Adobe WIT](https://research.adobe.com/forms/adobe-india-women-in-technology-scholarship/) **1 application from alternate e-id**
+5. [Github Campus Expert](https://apply.githubcampus.expert/application) *Application in progress...*
 
 #### Reviewed
 
