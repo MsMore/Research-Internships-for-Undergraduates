@@ -14,7 +14,7 @@
 4.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
 5.  [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
 6.   [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
-7.   [CERN Summer Student Program](https://careers.cern/summer) **Application opens in November**
+7.   [CERN Summer Student Program](https://careers.cern/summer) **Application opens in September**
 
 - ~~[NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.~~
 
