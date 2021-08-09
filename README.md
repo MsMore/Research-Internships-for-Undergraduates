@@ -15,11 +15,11 @@ The following are some global research internship positions:
 7. [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
 9. ~~[SPIKE @ UNIST](http://spike.unist.ac.kr/main/main.php), Summer Program for Internship and Korean Experience (not available)~~
-10. [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php) (cancelled for 2021)
-11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)[october] US ONLY
-12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen NORTH AMERICAN ONLY
-13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs) 
-14. [MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
+10. ~~[NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php) (cancelled for 2021)~~
+11. ~~[Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)[october] US ONLY~~
+12. ~~[UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen NORTH AMERICAN ONLY~~
+13. ~~[University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)~~
+14. ~~[MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents~~
 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
 16. [CERN Summer Student Program](https://careers.cern/summer) [June-September]
 17. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education) [Deadline Jan]
