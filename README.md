@@ -1,4 +1,4 @@
-# Research Internships for Undergraduates
+## All Applications
 
 #### Applied
 1. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/) **1 application**
