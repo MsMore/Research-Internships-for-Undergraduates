@@ -13,9 +13,10 @@
 3.  [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
 4.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
 5.  [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
-6.   [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
-7.   [CERN Summer Student Program](https://careers.cern/summer) **Application opens in September**
-
+6.  [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
+7.  [CERN Summer Student Program](https://careers.cern/summer) **Application opens in September**
+8.  [ISTernship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria **Check in Feb 2022**
+9.  [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information) **Check back in Nov, contact prof.**
 - ~~[NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.~~
 
 - ~~CRUISE Program by Georgia Tech University~~
@@ -28,8 +29,8 @@
 - ~~[MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents~~
 
 #### To Be reviewed
-8. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria [February]
-9. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information) [March]
+
+
 10. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan [April]
 11. [Amgen Scholars Program](amgenscholars.com/asia-program) [not reseach]
 12. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
