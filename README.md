@@ -6,21 +6,21 @@ I am making this list as an attempt to fill the void of any such open source lis
 
 The following are some global research internship positions:
 
-1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. [August]
-2. [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
-3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) [2022]
-4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/) [applied] (sop pending)
+1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August**
+2. ~~[NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.~~
+3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) **Application opens in November**
+4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/) **Applied**
 5. ~~CRUISE Program by Georgia Tech University~~
-6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) [November]
-7. [Summer at EPFL](https://summer.epfl.ch/) [november 20]
-8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU [november]
-9. [SPIKE @ UNIST](http://spike.unist.ac.kr/main/main.php), Summer Program for Internship and Korean Experience (not available)
+6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
+7. [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
+8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
+9. ~~[SPIKE @ UNIST](http://spike.unist.ac.kr/main/main.php), Summer Program for Internship and Korean Experience (not available)~~
 10. [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php) (cancelled for 2021)
 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)[october] US ONLY
 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen NORTH AMERICAN ONLY
 13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs) 
 14. [MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
-15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute DEADLINE 
+15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
 16. [CERN Summer Student Program](https://careers.cern/summer) [June-September]
 17. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education) [Deadline Jan]
 18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria [February]
