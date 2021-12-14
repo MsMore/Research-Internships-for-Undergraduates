@@ -10,14 +10,14 @@
 6.  [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August** I GOT IT!
 #### Reviewed
 
-2.  [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) **Application opens in November**
-3.  [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
-4.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
-5.  [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
-6.  [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
-7.  [CERN Summer Student Program](https://careers.cern/summer) **Application opens in September**
-8.  [ISTernship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria **Check in Feb 2022**
-9.  [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information) **Check back in Nov, contact prof.**
+1.  [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) **Application opens in November**
+2.  [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
+3.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
+4.  [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
+5.  [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
+6.  [CERN Summer Student Program](https://careers.cern/summer) **Application opens in September**
+7.  [ISTernship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria **Check in Feb 2022**
+8.  [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information) **Check back in Nov, contact prof.**
 - ~~[NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.~~
 
 - ~~CRUISE Program by Georgia Tech University~~
