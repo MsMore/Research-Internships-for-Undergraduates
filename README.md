@@ -9,7 +9,7 @@
 
 #### Reviewed
 
-1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August**
+1.  [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August**
 2.  [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) **Application opens in November**
 3.  [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
 4.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
