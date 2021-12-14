@@ -7,9 +7,9 @@
 4. [Adobe WIT](https://research.adobe.com/forms/adobe-india-women-in-technology-scholarship/) **1 application from alternate e-id**
 5. [Github Campus Expert](https://apply.githubcampus.expert/application) *Application in progress...*
 
+6.  [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August** I GOT IT!
 #### Reviewed
 
-1.  [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August**
 2.  [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) **Application opens in November**
 3.  [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
 4.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
